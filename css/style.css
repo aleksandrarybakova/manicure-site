@@ -61,6 +61,10 @@ h2{
     padding-bottom: 100px;
 }
 
+.carousel_fotos img{
+    margin: auto auto;
+}
+
 #features{
     background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(0,255,255,1) 100%););
 }
